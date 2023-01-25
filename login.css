@@ -1,0 +1,44 @@
+.a, .uk-icon{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.uk-icon:hover{
+    text-decoration: none;
+    color: white;
+}
+.a:hover{
+    text-decoration: none;
+    color: white;
+}
+.telegram{
+    width: 300px;
+    height: 62px;
+    background-color: #55ACEE;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 42.5%;
+    margin-top: 200px;
+}
+.facebook{
+    width: 300px;
+    height: 62px;
+    background-color: #3B5999;
+    padding-top: 10px;
+    padding-left: 2px;
+    margin-left: 42.5%;
+    margin-top: 10px;
+}
+.email{
+    width: 300px;
+    height: 62px;
+    background-color: #3B5999;
+    padding-top: 15px;
+    text-align: center;
+    margin-left: 42.5%;
+    margin-top: 10px;
+}
+.uk-icon{
+    margin-right: 40px;
+    color: white;
+}

@@ -1,0 +1,50 @@
+body{
+    background-color: #33CCCC;
+}
+.nav{
+    justify-content: space-around;
+}
+.pgeon>p{
+    font-size: 40px;
+    color: white;
+}
+li{
+    list-style: none;
+    margin-right: 50px;
+}
+ul{
+    display: flex;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.pgeon{
+    margin-left: -300px;
+    margin-top: 30px;
+}
+.nav-inner{
+    margin-right: -20%;
+    margin-top: 50px;
+}
+.signup{
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    padding-left: 25px;
+    padding-top: 5px;
+    margin-top: -5px;
+    border-radius: 10px;
+}
+.signup>a{
+    color: #FF6845;
+}
+h1{
+    color: white;
+}
+i{
+    font-size: 35px;
+}

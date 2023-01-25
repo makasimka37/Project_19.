@@ -1,0 +1,23 @@
+body{
+    background-color: #33CCCC;
+}
+.pgeon{
+    margin-left: 45%;
+    margin-right: 35%;
+}
+.pgeon>p{
+    font-size: 40px;
+    color: white;
+}
+li{
+    list-style: none;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: black;
+}
+.uk-button>a:hover{
+    color: #FF6845;
+}
